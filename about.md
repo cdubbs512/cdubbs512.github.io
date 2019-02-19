@@ -8,6 +8,9 @@ I am committed to helping people, organizations, and communities bring human-foc
 
 With a strong consulting background, I bring a wealth of experience allowing me to clarify objectives, dive into problems, use data to tell its story, and bring solutions to the table that can be enacted within resource constraints.
 
+Check out my github projects at: 
+[Github link](https://github.com/cdubbs512)
+
 ### Contact me by email:
 
-[email](christopher@christopherwilliams.us)
+[email](malito:christopher@christopherwilliams.us)
