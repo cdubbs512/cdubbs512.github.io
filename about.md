@@ -11,6 +11,4 @@ With a strong consulting background, I bring a wealth of experience allowing me 
 Check out my github projects at: 
 [Github link](https://github.com/cdubbs512)
 
-### Contact me by email:
-
-[email](christopher@christopherwilliams.us)
+### Contact me by [email](christopher@christopherwilliams.us)
