@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-A Data Scientist that is passionate about applying data visualization and model creation. From saving the financial lives of those preparing for retirement, to recommending larger business decisions, I am always pursuing new challenges and opportunities to employ data.
+I am committed to helping people, organizations, and communities bring human-focused solutions to data backed problems. 
+
+With a strong consulting background, I bring a wealth of experience allowing me to clarify objectives, dive into problems, use data to tell its story, and bring solutions to the table that can be enacted within resource constraints.
 
 ### Contact me by email:
 
-[email](alexjwin@gmail.com)
+[email](christopher@christopherwilliams.us)
