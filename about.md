@@ -13,4 +13,4 @@ Check out my github projects at:
 
 ### Contact me by email:
 
-[email](malito:christopher@christopherwilliams.us)
+[email](christopher@christopherwilliams.us)
