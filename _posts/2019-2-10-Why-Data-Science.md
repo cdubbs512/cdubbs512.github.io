@@ -1,9 +1,7 @@
-
 ---
 layout: post
 title: I’m no quant, so why might I choose to enter into the field of data science?
-summary: Why a non-quant decides to study data science?
-featured-img: space.jpg
+featured-img: space
 categories: Blogs
 ---
 
