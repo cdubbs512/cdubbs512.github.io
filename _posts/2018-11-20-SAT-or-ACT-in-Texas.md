@@ -5,3 +5,5 @@ featured-img: texas #optional - if you want you can include hero image
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/texas_presentation.pdf)
+
+<embed src= "MyHome.pdf" width= "500" height= "375">
