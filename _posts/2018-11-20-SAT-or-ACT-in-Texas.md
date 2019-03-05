@@ -2,7 +2,7 @@
 layout: post # needs to be post
 title: A Texas Size Opportunity for the College Board # title of your post
 featured-img: texas #optional - if you want you can include hero image
-categories: Projects
+categories: [Projects, Statistics, EDA, Tableau]
 ---
 
 During my General Assembly Data Science Immersive program, for our first assigned project we were given the 2017 and 2018 SAT & ACT data per each of the 50 states and DC in light of the following prompt: 
