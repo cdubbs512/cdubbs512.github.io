@@ -13,7 +13,7 @@ I decided to look at **Texas**, where I live, in light of the currently being di
 
 The data we were provided with composed of the average scores of each tests' sections and the overall composite scores. I cleaned it accordingly, conducted exploratory data analysis on it, used Tableau to visualize the data, and analyzed the data using descriptive and inferential statistics.
 
-My presentation is as follows and the link to the project Github is: https://github.com/cdubbs512/SAT_or_ACT_in_Texas
+My presentation is as follows and the link to the project can be found here on [GitHub](https://github.com/cdubbs512/SAT_or_ACT_in_Texas).
 
 
 ![_config.yml]({{ site.baseurl }}/images/texas_presentation/texas_sat_act_presentation_1.jpg)
