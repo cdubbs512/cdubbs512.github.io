@@ -5,6 +5,8 @@ featured-img: ames #optional - if you want you can include hero image
 categories: [Projects, Statistics, EDA, Data Cleaning, Regression, Prediction]
 ---
 
+# Regression modeling to predict housing prices in Ames, Iowa. 
+
 During my General Assembly Data Science Immersive program, for our second assigned project we partcipated in the Ames, Iowa Kaggle Competition using the well known Ames housing data.
 
 Our goal was to build regression models based on the training data to predict houses prices in the holdout testing set. 
