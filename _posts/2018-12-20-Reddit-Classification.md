@@ -5,7 +5,7 @@ featured-img: reddit #optional - if you want you can include hero image
 categories: [Projects, Webscrapping, Classification, APIs]
 ---
 
-# Classification modeling to predict if comments came from one of two subreddit threads: /Barca or /RealMadrid
+# Classification modeling to predict if comments came from one of two subreddit threads: /Barca or /RealMadrid.
 
 As a fan of the beautiful game, and a passionate azulgrana... ¡Força-Barça! ... I decided for my third General Assembly Data Science Immersive project, to build classification models that identified if a comment was coming from a subreddit dedicated to FC Barcelona or to one for Real Madrid. Call it El Clásico de Reddit. 
 
