@@ -19,5 +19,3 @@ featured-img: texas #optional - if you want you can include hero image
 ![_config.yml]({{ site.baseurl }}/images/texas_presentation/texas_sat_act_presentation_13.jpg)
 ![_config.yml]({{ site.baseurl }}/images/texas_presentation/texas_sat_act_presentation_14.jpg)
 ![_config.yml]({{ site.baseurl }}/images/texas_presentation/texas_sat_act_presentation_15.jpg)
-
-<embed src= "MyHome.pdf" width= "500" height= "375">
