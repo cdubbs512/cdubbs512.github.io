@@ -13,6 +13,8 @@ With a strong consulting background, I bring a wealth of experience allowing me 
 
 ### Follow the link to check out my [GitHub](https://github.com/cdubbs512) projects.
 
+### As well if you want to connect on LinkedIn, check out my [LinkedIn](https://www.linkedin.com/in/christopherwilliams512/).
+
 ### Contact me by [email](mailto:christopher@christopherwilliams.us)
 
 ![_config.yml]({{ site.baseurl }}/assets/img/posts/cw_lg.jpg)
