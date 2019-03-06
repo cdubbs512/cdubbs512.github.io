@@ -5,7 +5,7 @@ featured-img: footballers #optional - if you want you can include hero image
 categories: [Projects, Regression, Classification, Prediction]
 ---
 
-# Regression modeling to predict Top 5 European Leagues footballers market values ssing 2008 - 2017 data from transfermarkt.co.uk
+# Regression modeling to predict Top 5 European Leagues footballers market values using 2008 - 2017 data from transfermarkt.co.uk
 
 In this my capstone for my Data Science Immersive program, the data science problem I'm seeking to understand is how well annual statistics predict the estimated market values of professional footballers in the top 5 European leagues.
 
