@@ -20,11 +20,11 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
   - {name: 'Posts', link: '/posts'}
+  - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Bringing human-focused solutions to data-backed problems
+  Strategic Management Consultant and Financial Leader creating value by clarifying objectives, diving deep into problems, and creating strategic solutions for entrepreneurs, executives and creative visionaries.
 
 hero_img: posts/bcn_marina_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
