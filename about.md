@@ -5,17 +5,17 @@ featured-img: cw
 permalink: /about/
 ---
 
-I am always open to new consulting opportunities and even fantastic full-time ones. I love challenges that push me and allow me to further develop my expertise to contribute to the growth and success of organizations that share my values.
+I partner with founders and leadership teams to solve complex financial and strategic challenges.
 
-I have over a decade of experience in providing financial and strategic consulting services to clients across various sectors and regions. I have a strong background in business strategy, business development, M&A, startups, IoT, and data science, and I leverage these skills to help clients achieve their goals and optimize their performance.
+Over the past decade, I’ve advised companies across industries and geographies on growth strategy, capital allocation, M&A, market expansion, and operational performance.
 
-I enjoy working on complex and challenging projects that require me to dive deep into a market, data, trends, and industry best practices, and to create and implement innovative and goal-oriented solutions. 
+My background spans management consulting, corporate finance, startups, and independent advisory. I’ve led sell-side M&A engagements, built market entry strategies across the U.S. and Europe, improved cash flow and profitability for scaling businesses, and helped companies turn data into decision-grade insight.
 
-Some of the services I have provided my clients are on advising them on how ti improve their operations, cash flow, and profitability. I have created in-depth market analysis for foreign companies on US market entry, and in contrast have created go-to-market strategies for a large US company entereing new EU markets. I served as a sell-side M&A advisor for a European solar company divesting it's solar fields. 
+I thrive in ambiguity. Whether entering a new market, preparing for a transaction, or building financial infrastructure for scale, I dive deep — into markets, data, competitive dynamics, and operating models — to design solutions that drive measurable outcomes.
 
-I also have a passion for learning about the future of technology and AI, as I completed a data science immersive program where I developed predictive machine learning models and worked on pro-bono projects utilizing satellite imagery to prepare Caribbean islands for Hurricanes.
+I’m particularly interested in opportunities where finance is not just reporting — but a strategic lever for growth.
 
-Would love to connect and learn about you. 
+If you're building something meaningful and want a strategic finance partner who thinks like an owner, let’s connect.
 
 ### Feel free to connect via [LinkedIn](https://www.linkedin.com/in/christopherwilliams512/).
 
