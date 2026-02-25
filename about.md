@@ -17,9 +17,9 @@ I also have a passion for learning about the future of technology and AI, as I c
 
 Would love to connect and learn about you. 
 
-### Feel free to connect via LinkedIn, at [LinkedIn](https://www.linkedin.com/in/christopherwilliams512/).
+### Feel free to connect via [LinkedIn](https://www.linkedin.com/in/christopherwilliams512/).
 
-### Or email me here at [email](mailto:christopher@christopherwilliams.us)
+### Or [email](mailto:christopher@christopherwilliams.us) me. 
 
-![_config.yml]({{ site.baseurl }}/assets/img/posts/cw_placehold.png)
+![_config.yml]({{ site.baseurl }}/assets/img/posts/cw_pro_sm.png)
 
