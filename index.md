@@ -5,6 +5,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: Christopher Williams
+title: Christopher Williams | Website
 # title: Christopher Williams | Website
 ---
