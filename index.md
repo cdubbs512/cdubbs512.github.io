@@ -5,5 +5,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: Christopher Williams | Data Science
+title: Christopher Williams | Website
 ---
