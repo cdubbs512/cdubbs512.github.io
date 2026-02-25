@@ -19,7 +19,7 @@ If you're building something meaningful and want a strategic finance partner who
 
 ### Feel free to connect via [LinkedIn](https://www.linkedin.com/in/christopherwilliams512/).
 
-### Or [email](mailto:christopher@christopherwilliams.us) me. 
+### Or [email](mailto:christopher@christopherwilliams.us) me at Christopher@ChristopherWilliams.us
 
 ![_config.yml]({{ site.baseurl }}/assets/img/posts/cw_pro_sm.png)
 
