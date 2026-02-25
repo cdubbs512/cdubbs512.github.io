@@ -7,7 +7,7 @@ permalink: /about/
 
 I partner with founders and leadership teams to solve complex financial and strategic challenges.
 
-I’m particularly interested in opportunities where finance is not just reporting but a strategic lever for growth.
+I’m particularly interested in opportunities where finance is not just reporting—but a strategic lever for growth.
 
 Over the past decade, I’ve advised companies across industries and geographies on growth strategy, capital allocation, M&A, market expansion, and operational performance.
 
