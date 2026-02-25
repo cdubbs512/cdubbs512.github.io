@@ -10,7 +10,7 @@ Feel free to contact me below!
 
 #### Contact Me:
 
-Fill in the form or [email me](mailto:{{christopher@christopherwilliams.us}}) to discuss your next project.
+Fill in the form or email me [email](mailto:christopher@christopherwilliams.us) to discuss your next project.
 
 {% include form.html %}
 
