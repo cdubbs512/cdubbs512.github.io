@@ -23,7 +23,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Strategic Management Consultant and Financial Leader creating value by clarifying objectives, diving deep into problems, and creating strategic solutions for entrepreneurs, executives and creative visionaries.
+  Strategic finance leader helping founders and executives clarify priorities, solve complex problems, and turn strategy into measurable growth.
 
 hero_img: posts/bcn_marina_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
