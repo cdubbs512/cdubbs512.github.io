@@ -17,5 +17,7 @@ With a strong consulting background, I bring a wealth of experience allowing me 
 
 ### Contact me by [email](mailto:christopher@christopherwilliams.us)
 
+Thank you
+
 ![_config.yml]({{ site.baseurl }}/assets/img/posts/cw_placehold.png)
 
