@@ -21,6 +21,7 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
+  - {name: 'Posts', link: '/posts'}
 
 tagline: >
   Bringing human-focused solutions to data-backed problems
